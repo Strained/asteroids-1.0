@@ -6,7 +6,7 @@ LABEL attribution="ricky@virtualizeplanet.com"
 
 RUN apk add --update nodejs nodejs-npm
 
-COPY . /src
+COPY ./src /src
 
 WORKDIR /src
 

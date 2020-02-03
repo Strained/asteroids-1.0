@@ -1,0 +1,21 @@
+apiVersion: apps/v1beta2
+kind: Deployment
+metadata:
+  name: asteroids-deployment
+spec:
+  selector:
+    matchLabels:
+      app: asteroids
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: asteroids
+    spec:
+      containers:
+      - name: asteroids
+        image: asteroids:1.0
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 3000
+        
