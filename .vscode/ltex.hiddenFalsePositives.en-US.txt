@@ -1,0 +1,24 @@
+{"rule":"SENTENCE_WHITESPACE","sentence":"^\\QReadStream#setRawMode() (i.e. process.stdin.setRawMode())\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMake backward compatible with 0.6 focusaurus\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAdd \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q support arv\nfix password on node 0.8.8.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Qremove invalid .version() defaulting\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIt will automatically convert data from and to JSON string representations, and will automatically expose enviroment variables as globals preceded with \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMake any Node ReadableStream emit \"keypress\" events\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QAdd more sub-command padding\nFix .usage() when args are present.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAdd \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q support arv\nFix password on node 0.8.8.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QCloses #49\nAdded default support to .choose().\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAdded travis support\nFixed: line-buffered input automatically trimmed.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QFixed long flag definitions with values felixge\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QChanged \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q short flag to \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q from \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q\nChanged \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q so it's configurable felixge\\E$"}
+{"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QChanged \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q short flag to \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q from \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q\nChanged \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q so it's configurable felixge\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Q\"node\": \">= 0.4.x < 0.7.0\".\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAdded sub-command option support itay\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QDefault peassignment only occurs for --no-*, optional, and required arguments.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QChanged: when the user enters nothing prompt for password again\nFixed issue with passwords beginning with numbers NuckChorris\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q.prompt(msg, fn)\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q.password(msg, mask, fn)\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q.confirm(msg, fn)\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q.choose(list, fn)\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q.outputHelp()\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q.outputHelp()\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QCopyright © 2011 TJ Holowaychuk <>\\E$"}
